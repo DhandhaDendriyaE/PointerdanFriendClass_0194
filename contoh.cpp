@@ -7,7 +7,7 @@ class PersegiPanjang
 public:
     int panjang, lebar;
 
-    
+
 public:
    void input()
    {
@@ -17,6 +17,7 @@ public:
     cin >> lebar;
    }
 
+   
    int luasPp(int a, int b) 
    {
     return a * b;
