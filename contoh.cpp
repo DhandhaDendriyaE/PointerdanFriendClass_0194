@@ -30,7 +30,7 @@ public:
 
 class Lingkaran
 {
-    
+
 public:
     int jarijari;
 
@@ -40,6 +40,7 @@ public:
         cin >> jarijari;
     }
 };
+
 
 int luaslingkaran(int r)
 {
