@@ -9,6 +9,7 @@ class manusia
     void showNilaiPelajar(pelajar &x);
 };
 
+
 class pelajar
 {
     private:
